@@ -1,8 +1,6 @@
 # Loan Data Dashboard Project
 
 
-## Entity-Relationship Diagram (ERD)
-
 
 ## Problem Statement
 
@@ -10,6 +8,11 @@
 The primary objective of this Dashboard is to provide a **comprehensive** and **user-friendly interface** for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into the loan portfolio, borrower profiles, and loan performance.
 
 ---
+## FINANCE PROJECT_BANK LOAN_ OVERVIEW DASHBOARD
+![image alt](https://github.com/Olajes/EXCEL-LOAN-DASHBORD-PROJECT/blob/main/FINANCE%20PROJECT_BANK%20LOAN_%20OVERVIEW.PNG?raw=true)
+
+## FINANCE PROJECT_ BANK LOAN_SUMMARY DASHBOARD
+![image alt](https://github.com/Olajes/EXCEL-LOAN-DASHBORD-PROJECT/blob/main/FINANCE%20PROJECT_%20BANK%20LOAN_SUMMARY.PNG?raw=true)
 
 ## Dashboard 1: Summary
 
@@ -105,4 +108,4 @@ This grid empowers users to make data-driven decisions and assess the overall he
 ## Contact
 For any questions or feedback, please reach out:
 
-**Email: youremail@example.com
+**Email: odebodestephen2020b@gmail.com
